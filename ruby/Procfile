@@ -1,0 +1,2 @@
+hello: rackup -o 0.0.0.0 config.ru
+unicorn: bundle exec unicorn -c unicorn_config.rb
