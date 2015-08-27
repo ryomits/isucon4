@@ -1,6 +1,6 @@
 # ISUCON4
 
-isucon4の参考解答(resis)を参考にnginx + unicorn + WAFなしでHello World
+isucon4の参考解答(redis)を参考にnginx + unicorn + WAFなしでHello World
 
 ```
 git clone git@github.com:ryomits/isucon4.git
